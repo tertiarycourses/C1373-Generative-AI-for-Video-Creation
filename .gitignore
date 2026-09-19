@@ -1,7 +1,8 @@
-__pycache__/
 *.py[cod]
-~$*
 .DS_Store
-tmp/
+__pycache__/
 courseware/qa-render/
 courseware/qa-temp/
+source-wsq/
+tmp/
+~$*
